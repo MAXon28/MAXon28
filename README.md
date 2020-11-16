@@ -4,4 +4,3 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MAXon28 alt=MAXon28 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MAXon28&show_icons=true&include_all_commits=true)](https://github.com/MAXon28/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAXon28&layout=compact)](https://github.com/MAXon28/github-readme-stats)
